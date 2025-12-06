@@ -1,4 +1,4 @@
 ### Hey 👋
-#### 💻 I'm a developer with a passion for web development, particularly HTML, CSS, JavaScript and PHP. I also can work with React, Next.js and Node.js to build dynamic and engaging frontend and backend. I have experience of work with React Native and Expo Framework.
+#### 💻 I'm Ivan and I enjoy creating websites and experimenting with different ideas in programming. I like playing around with design, which makes projects more interesting. I use Next.js, Tailwind, Prisma, PostgreSQL, Go and other languages and utils in my projects.
 
-#### 💪🏻 I am capable of taking on any task that involves the technologies mentioned above, as well as MySQL or PostgreSQL!
+#### 💪🏻 I am capable of taking on any task that involves the technologies mentioned above!
